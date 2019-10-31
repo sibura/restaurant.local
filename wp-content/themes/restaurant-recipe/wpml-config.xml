@@ -1,0 +1,83 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_restaurant-recipe">
+            <key name="restaurant_recipe_theme_options">
+                <key name="restaurant-recipe-display-site-logo"/>
+                <key name="restaurant-recipe-display-site-title"/>
+                <key name="restaurant-recipe-display-site-tagline"/>
+                <key name="restaurant-recipe-header-height"/>
+                <key name="restaurant-recipe-header-image-display"/>
+                <key name="restaurant-recipe-enable-header-top"/>
+                <key name="restaurant-recipe-header-top-menu-display-selection"/>
+                <key name="restaurant-recipe-header-top-info-display-selection"/>
+                <key name="restaurant-recipe-header-top-social-display-selection"/>
+                <key name="restaurant-recipe-menu-display-options"/>
+                <key name="restaurant-recipe-enable-sticky"/>
+                <key name="restaurant-recipe-menu-right-button-options"/>
+                <key name="restaurant-recipe-menu-right-button-title"/>
+                <key name="restaurant-recipe-menu-right-button-link"/>
+                <key name="restaurant-recipe-enable-cart-icon"/>
+                <key name="restaurant-recipe-enable-feature"/>
+                <key name="restaurant-recipe-slides-data"/>
+                <key name="restaurant-recipe-feature-slider-enable-animation"/>
+                <key name="restaurant-recipe-feature-slider-display-title"/>
+                <key name="restaurant-recipe-feature-slider-display-excerpt"/>
+                <key name="restaurant-recipe-fs-image-display-options"/>
+                <key name="restaurant-recipe-feature-slider-text-align"/>
+                <key name="restaurant-recipe-slider-scroll-text"/>
+                <key name="restaurant-recipe-slider-scroll-link"/>
+                <key name="restaurant-recipe-feature-info-number"/>
+                <key name="restaurant-recipe-first-info-icon"/>
+                <key name="restaurant-recipe-first-info-title"/>
+                <key name="restaurant-recipe-first-info-desc"/>
+                <key name="restaurant-recipe-second-info-icon"/>
+                <key name="restaurant-recipe-second-info-title"/>
+                <key name="restaurant-recipe-second-info-desc"/>
+                <key name="restaurant-recipe-third-info-icon"/>
+                <key name="restaurant-recipe-third-info-title"/>
+                <key name="restaurant-recipe-third-info-desc"/>
+                <key name="restaurant-recipe-forth-info-icon"/>
+                <key name="restaurant-recipe-forth-info-title"/>
+                <key name="restaurant-recipe-forth-info-desc"/>
+                <key name="restaurant-recipe-footer-copyright"/>
+                <key name="restaurant-recipe-footer-copyright-beside-option"/>
+                <key name="restaurant-recipe-enable-footer-power-text"/>
+                <key name="restaurant-recipe-footer-site-info"/>
+                <key name="restaurant-recipe-footer-bg-img"/>
+                <key name="restaurant-recipe-pagination-option"/>
+                <key name="restaurant-recipe-enable-animation"/>
+                <key name="restaurant-recipe-single-sidebar-layout"/>
+                <key name="restaurant-recipe-front-page-sidebar-layout"/>
+                <key name="restaurant-recipe-archive-sidebar-layout"/>
+                <key name="restaurant-recipe-blog-archive-img-size"/>
+                <key name="restaurant-recipe-blog-archive-content-from"/>
+                <key name="restaurant-recipe-blog-archive-excerpt-length"/>
+                <key name="restaurant-recipe-blog-archive-more-text"/>
+                <key name="restaurant-recipe-hide-front-page-content"/>
+                <key name="restaurant-recipe-hide-front-page-header"/>
+                <key name="restaurant-recipe-primary-color"/>
+                <key name="restaurant-recipe-header-top-bg-color"/>
+                <key name="restaurant-recipe-footer-bg-color"/>
+                <key name="restaurant-recipe-footer-bottom-bg-color"/>
+                <key name="restaurant-recipe-link-color"/>
+                <key name="restaurant-recipe-link-hover-color"/>
+                <key name="restaurant-recipe-wc-shop-archive-sidebar-layout"/>
+                <key name="restaurant-recipe-wc-product-column-number"/>
+                <key name="restaurant-recipe-wc-shop-archive-total-product"/>
+                <key name="restaurant-recipe-wc-single-product-sidebar-layout"/>
+                <key name="restaurant-recipe-single-header-title"/>
+                <key name="restaurant-recipe-single-img-size"/>
+                <key name="restaurant-recipe-popup-widget-title"/>
+                <key name="restaurant-recipe-breadcrumb-options"/>
+                <key name="restaurant-recipe-search-placeholder"/>
+                <key name="restaurant-recipe-social-data"/>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
+
+
+
+

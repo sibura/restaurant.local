@@ -1,2 +1,0 @@
-# restaurant.local
-restaurant website
